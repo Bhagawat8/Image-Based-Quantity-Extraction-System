@@ -81,14 +81,10 @@ Follow the steps below to set up the project locally:
    git clone https://github.com/your-username/quantity-extraction.git
    cd quantity-extraction
    ```
-2. Install Dependencies: Ensure you have Python 3.8+ installed.
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Download Pretrained Models:
+2. Download Pretrained Models:
    - **OCR Model:** Florence-2-large-ft ([Download Link](https://huggingface.co/microsoft/Florence-2-large-ft))
    - **NER Model:** Fine-tuned T5-base ([Download Link](https://drive.google.com/drive/folders/1qBvsh-yheqe7x3LzOafUMbvUOJwHmHrn?usp=sharing))
-4. Set Up Environment: Create a `.env` file for environment variables if necessary (e.g., API keys for cloud-based OCR services).
+3. Set Up Environment: Create a `.env` file for environment variables if necessary (e.g., API keys for cloud-based OCR services).
 
 ---
 
