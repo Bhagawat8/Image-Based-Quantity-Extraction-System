@@ -78,7 +78,7 @@ Follow the steps below to set up the project locally:
 
 1. Clone the Repository:
    ```sh
-   git clone https://github.com/your-username/quantity-extraction.git
+   git clone https://github.com/Bhagawat8/Image-Based-Quantity-Extraction-System.git
    cd quantity-extraction
    ```
 2. Download Pretrained Models:
